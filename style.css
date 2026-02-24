@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+    background-image: url(imagens/nuvens.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+p {
+    text-align: center;
+    font-family: Jazz LET,fantasy;
+}
+
+#contador {
+    font-size: 1.2rem;
+}
+
+#title{
+    text-align: center;
+    font-family: Jazz LET,fantasy;
+}
+
+#pombo{
+    position: relative;
+    display: block;
+} 
+
+#palhaco {
+    position: relative;
+    display: none;
+}
