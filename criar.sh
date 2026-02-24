@@ -1,5 +1,5 @@
 echo "# pegue-no-pombo" >> README.md
-git init
+
 git add .
 git commit -m "second commit"
 git branch -M main
